@@ -1,6 +1,6 @@
 # PlatziDate
 
-Una utilidad para manejar fechas en formato timestamp y long time.
+Una utilidad para manejar fechas en formato timestamp y long time creado con la ayuda de platzi.
 
 # Install
 
